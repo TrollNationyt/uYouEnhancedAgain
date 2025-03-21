@@ -231,6 +231,25 @@
 <br>
 <a href='https://theos.dev'><img src="https://img.shields.io/badge/Website-theos-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="theos"></a>
 </td>
+
+<0xilis>
+<td align="center">
+<a href='https://github.com/0xilis'>
+<img src='https://avatars.githubusercontent.com/u/109871561?v=4' width='110px;'>
+</a>
+<br>
+<a href='https://github.com/0xilis'><img src="https://img.shields.io/badge/GitHub-0xilis-181717?style=for-the-badge&logo=github&logoColor=white" alt="0xilis"></a>
+</td>
+
+<castdrian>
+<td align="center">
+<a href='https://github.com/castdrian'>
+<img src='https://avatars.githubusercontent.com/u/22133246?v=4' width='110px;'>
+</a>
+<br>
+<a href='https://bsky.app/profile/adriancastro.dev'><img src="https://img.shields.io/badge/BlueSky-adriancastro.dev-1DA1F2?style=for-the-badge&logo=BlueSkyr&logoColor=white" alt="adriancastro.dev"></a>
+</td>
+  
 </tr>
 </table>
 
@@ -379,6 +398,8 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
 &nbsp;
 
 <a href="https://www.patreon.com/julioverne"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/julioverne.png?raw=true" width="200"></a>
+
+<a href="https://github.com/sponsors/castdrian"><img src="https://github.com/TrollNationyt/uYouEnhancedAgain/blob/main/castdrian(Github).png?raw=true" width="200"></a>
 
 # Wiki
 
