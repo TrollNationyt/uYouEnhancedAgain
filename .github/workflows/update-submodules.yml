@@ -67,6 +67,18 @@ jobs:
           git push
         continue-on-error: true
 
+
+      - name: Add uYouEnhanced submodules
+        run: |
+          git submodule add https://github.com/PoomSmart/YouChooseQuality Tweaks/YouChooseQuality
+          git submodule add https://github.com/PoomSmart/YTShortsProgress Tweaks/YTShortsProgress
+          git submodule add https://github.com/castdrian/Gonerino Tweaks/Gonerino
+          git submodule add https://github.com/0xilis/LetMePass Tweaks/LetMePass
+          git add .
+          git commit -m "added uYouEnhanced submodules"
+          git push origin
+        continue-on-error: true
+
       - name: Check exit code
         run: |
           exit_code=$?
