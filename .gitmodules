@@ -92,3 +92,15 @@
 [submodule "Tweaks/YouSlider"]
 	path = Tweaks/YouSlider
 	url = https://github.com/PoomSmart/YouSlider
+[submodule "Tweaks/YouChooseQuality"]
+	path = Tweaks/YouChooseQuality
+	url = https://github.com/PoomSmart/YouChooseQuality
+[submodule "Tweaks/YTShortsProgress"]
+	path = Tweaks/YTShortsProgress
+	url = https://github.com/PoomSmart/YTShortsProgress
+[submodule "Tweaks/Gonerino"]
+	path = Tweaks/Gonerino
+	url = https://github.com/castdrian/Gonerino
+[submodule "Tweaks/LetMePass"]
+	path = Tweaks/LetMePass
+	url = https://github.com/0xilis/LetMePass
