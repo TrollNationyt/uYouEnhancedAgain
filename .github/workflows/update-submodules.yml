@@ -79,6 +79,15 @@ jobs:
           git push origin
         continue-on-error: true
 
+      - name: Make .bundle files
+        run: |
+          cd Bundles
+          ln -s ../Tweaks/YouChooseQuality/layout/Library/Application\ Support/uYouChooseQuality.bundle uYouChooseQuality.bundle
+          git add .
+          git commit -m "Added bundles"
+          git push origin
+        continue-on-error: true
+
       - name: Check exit code
         run: |
           exit_code=$?
