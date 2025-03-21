@@ -232,7 +232,6 @@
 <a href='https://theos.dev'><img src="https://img.shields.io/badge/Website-theos-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="theos"></a>
 </td>
 
-<>
 <td align="center">
 <a href='https://github.com/0xilis'>
 <img src='https://avatars.githubusercontent.com/u/109871561?v=4' width='110px;'>
