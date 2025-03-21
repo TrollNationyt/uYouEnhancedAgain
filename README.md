@@ -294,6 +294,15 @@
 18. **YTAppVersionSpoofer:** This tweak allows users to spoof the version of the YouTube app they are using, this is designed to spoof to older YouTube App versions. This can be useful for bypassing certain version checks or retaining features that may have been removed/disabled in newer updates. **<-- uYouEnhanced Exclusive Feature (subject to change)**
 
 19. **LowContrastMode (17.33.2-18.34.5 OUTDATED):** LowContrastMode is a tweak that allows users to darken the text in the YouTube app, making it easier to read. which sadly suffers from incompatibility issues and doesn't work right now as of March 19th 2025. **<-- uYouEnhanced Exclusive Feature (subject to change)**
+    
+20. **LetMePass:** Bypasses YouTube's version alert.
+    
+21. **YouChooseQuality:** Auto-select the video quality of choice in iOS YouTube app.
+
+22. **Gonerino:** A YouTube tweak that allows you to block specific channels and automatically remove their videos from your feed.
+
+23. **YTShortsProgress** Enable YouTube shorts progress/scrubber.
+ 
 
 </details>
 
